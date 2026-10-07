@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Build
+build/
+.gradle/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+*.log
